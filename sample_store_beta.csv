@@ -1,0 +1,5 @@
+productId,name,price,prescriptionRequired
+B001,Ibuprofen,45.0,false
+B002,Prescription Antibiotic,165.0,true
+B003,Nasal Spray,49.5,false
+B004,Paracetamol,35.0,false
